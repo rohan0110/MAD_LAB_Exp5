@@ -1,16 +1,7 @@
-# firebase_application
+# Exp5: LoginPage with firebase connectivity
 
-A new Flutter project.
+**Output:**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![mad](https://github.com/rohan0110/MAD_LAB_Exp5/assets/110125066/e77a4927-8d9c-4df5-8df5-314bd76ed297)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
